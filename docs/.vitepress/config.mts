@@ -74,6 +74,9 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Team488' },
     ],
+    search: {
+      provider: 'local',
+    },
     editLink: {
       pattern: 'https://github.com/Team488/XBot-Documentation/edit/main/docs/:path',
       text: 'Edit this page on GitHub',

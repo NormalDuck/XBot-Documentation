@@ -4,6 +4,9 @@ hero:
   name: XBot Programming
   text: FRC Documentation for Team 488
   tagline: Learn to code competition robots. Built for high schoolers new to Java.
+  image:
+    src: /xbot-logo.png
+    alt: XBot Logo
   actions:
     - theme: brand
       text: Start Curriculum
