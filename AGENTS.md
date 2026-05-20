@@ -77,10 +77,13 @@ pnpm docs:preview   # Preview production build
 
 ## Source Repositories (for code references)
 
-- [XbotEdu](https://github.com/Team488/XbotEdu) - Practice challenges
-- [TeamXbot2026](https://github.com/Team488/TeamXbot2026) - Current robot code
-- [TeamXbot2025](https://github.com/Team488/TeamXbot2025) - Last year's robot
-- [SeriouslyCommonLib](https://github.com/Team488/SeriouslyCommonLib) - Shared library
-- [WPILib Docs](https://docs.wpilib.org/en/stable/) - Official FRC library
+All source repositories are available locally as git submodules in `./references/`:
+
+- `references/XbotEdu/` - Practice challenges
+- `references/TeamXbot2026/` - Current robot code
+- `references/TeamXbot2025/` - Last year's robot
+- `references/SeriouslyCommonLib/` - Shared library
+- `references/frc-docs/` - WPILib official documentation
 
 When referencing code, prefer XBot's patterns over WPILib defaults if they differ.
+Use `grep` and `glob` tools to search within these local repositories instead of web fetching.

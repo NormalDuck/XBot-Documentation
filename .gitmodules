@@ -1,0 +1,15 @@
+[submodule "references/SeriouslyCommonLib"]
+	path = references/SeriouslyCommonLib
+	url = https://github.com/Team488/SeriouslyCommonLib
+[submodule "references/TeamXbot2026"]
+	path = references/TeamXbot2026
+	url = https://github.com/Team488/TeamXbot2026
+[submodule "references/TeamXbot2025"]
+	path = references/TeamXbot2025
+	url = https://github.com/Team488/TeamXbot2025
+[submodule "references/frc-docs"]
+	path = references/frc-docs
+	url = https://github.com/wpilibsuite/frc-docs
+[submodule "references/XbotEdu"]
+	path = references/XbotEdu
+	url = https://github.com/Team488/XbotEdu
