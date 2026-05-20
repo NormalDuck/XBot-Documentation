@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/XBot-Documentation/',
   title: 'XBot Programming',
   description: 'FRC Programming Documentaton for Team 488',
   themeConfig: {
